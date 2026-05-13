@@ -1,6 +1,4 @@
 # Caterpillar
-<p align="center">
-<img src="https://static.wikia.nocookie.net/pixar/images/e/ec/Heimlich.png/revision/latest?cb=20170807224005" width=30% height=30%>
 
 ## 🛠️ Description
 
@@ -19,7 +17,7 @@ python Caterpillar.py
 ```
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/kirtanchauhan26/python-project/caterpillar.gif" width=70% height=70%>
+<img src="https://github.com/kirtanchauhan26/python-project/blob/main/caterpillar.gif" width=70% height=70%>
 
 ## 🤖 Author
 Kirtan chauhan 
